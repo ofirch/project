@@ -20,5 +20,4 @@ Exman and D. Speicher, “Linear Software Models: Equivalence of Modularity Matr
 
 ##קישורים:
 https://www.youtube.com/watch?v=EJfzArH8-ls
-10.1142/S0218194014500089
-10.5220/0005557701090116
+
