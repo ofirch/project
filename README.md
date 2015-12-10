@@ -27,8 +27,9 @@ application display history about press time by day and week.
 application can allow disconnect to smart bracelet.
 
 when press on the button on smart bracelet, by Bluetooth send signal to androiad application .
-that save pressed history and send to the ather androiad application that send to ather smart bracelet.
-someone thinking about the patient!
+that save pressed history and send to the ather androiad application that send to ather smart bracelet that triggers vibration.
+
+<br>someone thinking about the patient!</br>
 
 
 [project wiki](https://github.com/ofirch/project/wiki/System-improvement-in-depressed--patients)
