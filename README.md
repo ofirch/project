@@ -9,7 +9,7 @@
 נבנה תקשורת שן כחולה בין צמיד חכם לאפלקציית אנדרואיד, כאשר חושבים על המטופל לוחצים על כפתור בצמיד החכם ובצמיד של המטופל מתקבל אות שמפעיל רטט.
 
 
-[project wiki](https://github.com/tamarel/wikiCook/wiki)
+[project wiki](https://github.com/ofirch/project/wiki/System-improvement-in-depressed--patients)
 
 
 
