@@ -32,7 +32,7 @@ that save pressed history and send to the ather androiad application that send t
 <br>someone thinking about the patient!</br>
 
 
-[project wiki](https://github.com/ofirch/project/wiki/System-improvement-in-depressed--patients)
+[project wiki](https://github.com/ofirch/project/wiki)
 
 
 
