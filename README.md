@@ -36,7 +36,7 @@ that save pressed history and send to the ather androiad application that send t
 
 ##[SharedThoughts android Application](https://github.com/ofirch/project/wiki/SharedThoughts-android-Application)
 ##[SharedThoughts nodejs server](https://github.com/ofirch/project/wiki/SharedThoughts-android-Application)
-##[SharedThoughts mongodb database](https://github.com/ofirch/project/wiki/SharedThoughts-database)
+##[SharedThoughts mongodb database](https://github.com/ofirch/project/wiki/SharedThoughts-datadase)
 ##[SharedThoughts smart bracelet](https://github.com/ofirch/project/wiki/SharedThoughts-Arduino)
 
 
