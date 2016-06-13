@@ -33,6 +33,10 @@ that save pressed history and send to the ather androiad application that send t
 
 
 [project wiki](https://github.com/ofirch/project/wiki)
+[project wiki](https://github.com/ofirch/project/wiki)
+[project wiki](https://github.com/ofirch/project/wiki)
+[project wiki](https://github.com/ofirch/project/wiki)
+[project wiki](https://github.com/ofirch/project/wiki)
 
 
 
