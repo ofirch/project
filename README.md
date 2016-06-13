@@ -32,11 +32,12 @@ that save pressed history and send to the ather androiad application that send t
 <br>someone thinking about the patient!</br>
 
 
-[project wiki](https://github.com/ofirch/project/wiki)
-[project wiki](https://github.com/ofirch/project/wiki)
-[project wiki](https://github.com/ofirch/project/wiki)
-[project wiki](https://github.com/ofirch/project/wiki)
-[project wiki](https://github.com/ofirch/project/wiki)
+##[project wiki](https://github.com/ofirch/project/wiki)
+
+##[SharedThoughts android Application](https://github.com/ofirch/project/wiki)
+##[SharedThoughts nodejs server](https://github.com/ofirch/project/wiki)
+##[SharedThoughts mongodb database](https://github.com/ofirch/project/wiki)
+##[SharedThoughts arduino](https://github.com/ofirch/project/wiki)
 
 
 
