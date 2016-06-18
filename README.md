@@ -1,4 +1,4 @@
-#project proposal
+#share thoughts
 
 treatment to depressed patients .
 
